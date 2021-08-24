@@ -1,5 +1,10 @@
 Estudiante 1: Lucciano Franco
+Correo: l.francom@uniandes.edu.co
+Codigo: 202111458
+
 Estudiante 2: Lina Ojeda
+Correo: l.ojedaa@uniandes.edu.co
+Codigo: 202112324
 
 
 #ISIS1225 - Estructura de un proyecto
